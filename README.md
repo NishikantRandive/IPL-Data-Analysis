@@ -14,6 +14,7 @@ Seasonal Trends and Predictive Modeling: Through time-series analysis and predic
 Our project has driven significant impact across various facets of the IPL ecosystem:
 
 IPL Franchises: Equipped with actionable insights on player performances and team strategies, franchises optimized their player selections, training regimes, and match tactics, leading to improved on-field performances and fan engagement.
+![IPL-PowerBi](https://github.com/user-attachments/assets/903614b3-2308-4cff-9015-7bb292b4f455)
 
 Cricket Enthusiasts: Our project provided cricket enthusiasts with deeper insights into the game, fostering a greater appreciation for player performances, team dynamics, and strategic nuances, thereby enriching their overall IPL experience.
 
